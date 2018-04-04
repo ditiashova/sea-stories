@@ -1,6 +1,6 @@
 # Sea
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.0.
+Sea-stories is a SPA to organize thoughts in a nice and clean manner.
 
 ## Development server
 
